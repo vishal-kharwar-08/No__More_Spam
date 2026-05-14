@@ -97,11 +97,11 @@ Scikit-learn Documentation
 
 # 📬 Contact
 
+Vishal Kharwar , 23bcs100@smvdu.ac.in
+
 Ansh Singh , 23Bcs018@smvdu.ac.in
 
 Shivam Kumar , 23Bcs084@smvdu.ac.in
-
-Vishal Kharwar , 23bcs100@smvdu.ac.in
 
 Niraj Kumar , 23Bcs057@smvdu.ac.in
 
